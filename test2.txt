@@ -1,4 +1,0 @@
-changes are all made in text2 file. 
-it is useful for maintaining the files. 
-
-So, I am becoming good at github usage.
